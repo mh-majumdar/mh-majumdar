@@ -9,7 +9,7 @@
 
 
 ### My Github Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mh-majumdar&show_icons=true&count_private=true&theme=dark" alt="mh-majumdar" />
+<img src="https://github-readme-stats.vercel.app/api?username=mh-majumdar&show_icons=true&count_private=true&theme=dark" alt="mh-majumdar" />
 
 ### My Stacks
 #### Languages: Assembly | C | C++ | Java | Python
@@ -21,10 +21,10 @@
 #### Others: Git | Latex
 
  
-### CONTRIBUTION AND STREAK BLOCK
+### Contribution & Streak Block
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mh-majumdar&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
  
 
  
- ### TOP LANGUAGES STATISTICS
+ ### Top Language Statistics
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mh-majumdar&theme=dark&layout=compact&align=right&width=40%)](https://github.com/mh-majumdar/github-readme-stats)
