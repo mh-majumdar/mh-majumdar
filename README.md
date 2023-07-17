@@ -1,4 +1,4 @@
-[<img width="1680"src="https://twitter.com/mh_majumdar/status/1446348652474089474/photo/1"></a>](https://github.com/mh-majumdar/mh-majumdar/issues/1#issue-1807596516)
+![Banner](https://github.com/mh-majumdar/mh-majumdar/assets/66936454/f5ee8763-475e-4fc0-abf0-15b664304ce7)
 
 ### About Me
 - [Portfolio](https://mh-majumdar.github.io/my-portfolio/)
