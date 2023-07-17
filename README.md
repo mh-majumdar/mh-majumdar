@@ -1,4 +1,4 @@
-<a href=><img width="1680" alt="twitter_cover_upgrade_presentation" src="https://www.linkedin.com/in/hasanmehedi1952/overlay/background-image/"></a>
+<img width="1680"src="https://www.linkedin.com/in/hasanmehedi1952/overlay/background-image/"></a>
 
 ### About Me
 - [Portfolio](https://mh-majumdar.github.io/my-portfolio/)
