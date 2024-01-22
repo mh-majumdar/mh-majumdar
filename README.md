@@ -14,9 +14,11 @@
 ### My Stacks
 #### Languages: Assembly | C | C++ | Java | Python
 
-#### Frontend: HTML | CSS
+#### Frontend: HTML | CSS 
 
-#### Backend: Python | MySQL
+#### Backend: Django | 
+
+#### Database: MySQL | MOngoDB
 
 #### Others: Git | Latex
 
