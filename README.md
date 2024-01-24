@@ -14,13 +14,13 @@
 ### My Stacks
 #### Languages: Assembly | C | C++ | Java | Python
 
-#### Frontend: HTML | CSS 
+#### Frontend: HTML | CSS | Wordpress
 
-#### Backend: Django | 
+#### Backend: Django 
 
 #### Database: MySQL | MOngoDB
 
-#### Others: Git | Latex
+#### Others: Git | Latex | Photoshop
 
  
 ### Contribution & Streak Block
