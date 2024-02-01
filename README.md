@@ -1,7 +1,7 @@
 ![Banner](https://github.com/mh-majumdar/mh-majumdar/assets/66936454/f5ee8763-475e-4fc0-abf0-15b664304ce7)
 
 ### About Me
-- [Portfolio(www.mh-majumdar.com)
+- [Portfolio(https://www.mh-majumdar.com)
 - [Linkedin](https://www.linkedin.com/in/hasanmehedi1952/)
 - [Twitter](https://www.linkedin.com/in/hasanmehedi1952/)
 - [Codeforces](https://codeforces.com/profile/mh_majumdar)
