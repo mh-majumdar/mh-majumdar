@@ -1,6 +1,20 @@
 ![Banner](https://github.com/mh-majumdar/mh-majumdar/assets/66936454/f5ee8763-475e-4fc0-abf0-15b664304ce7)
 
 ### About Me
+
+👋 Hi there! I'm Mehedi Hasan, a dedicated and enthusiastic problem solver with a passion for learning and improving skills. 
+
+💻 I'm constantly seeking new challenges to expand my knowledge and expertise. I thrive in collaborative environments and enjoy working with others to solve complex problems.
+
+📚 Beyond coding, I enjoy reading about technology trends and exploring new programming concepts. Let's connect and collaborate on exciting projects together!
+
+### 📬 Connect with me
+[![telegram](https://img.shields.io/badge/-@mh_majumdar-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/mh_majumdar))
+[![Twitter: M.H. Majumdar](https://img.shields.io/twitter/follow/ShohanurSobuj?style=social)](https://www.linkedin.com/in/hasanmehedi1952/))
+[![Linkedin: Md. Shohanur Islam Sobuj](https://img.shields.io/badge/-shohanursobuj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/shohanursobuj/)
+[![GitHub shohanursobuj](https://img.shields.io/github/followers/shohanursobuj?label=follow&style=social)](https://github.com/ShohanurSobuj)
+[![website](https://img.shields.io/badge/PortfolioWebsite-shohanursobuj.github.io-2648ff?style=flat-square&logo=google-chrome)](https://shohanursobuj.github.io/)
+
 - [Portfolio](https://www.mh-majumdar.com)
 - [Linkedin](https://www.linkedin.com/in/hasanmehedi1952/)
 - [Twitter](https://www.linkedin.com/in/hasanmehedi1952/)
