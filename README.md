@@ -8,12 +8,6 @@
 
 📚 Beyond coding, I enjoy reading about technology trends and exploring new programming concepts. Let's connect and collaborate on exciting projects together!
 
-### 📬 Connect with me
-[![telegram](https://img.shields.io/badge/-@mh_majumdar-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/mh_majumdar))
-[![Twitter:](https://img.shields.io/twitter/follow/mh_majumdar?style=social)](https://www.linkedin.com/in/hasanmehedi1952/))
-[![Linkedin: Md. Shohanur Islam Sobuj](https://img.shields.io/badge/-shohanursobuj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/shohanursobuj/)
-[![GitHub shohanursobuj](https://img.shields.io/github/followers/shohanursobuj?label=follow&style=social)](https://github.com/ShohanurSobuj)
-[![website](https://img.shields.io/badge/PortfolioWebsite-shohanursobuj.github.io-2648ff?style=flat-square&logo=google-chrome)](https://shohanursobuj.github.io/)
 
 - [Portfolio](https://www.mh-majumdar.com)
 - [Linkedin](https://www.linkedin.com/in/hasanmehedi1952/)
