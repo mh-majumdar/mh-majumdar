@@ -20,13 +20,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mh-majumdar&show_icons=true&count_private=true&theme=dark" alt="mh-majumdar" />
 
 ### My Stacks
-#### Languages: Assembly | C | C++ | Java | Python
+#### Languages:C | C++ | Python
 
-#### Frontend: HTML | CSS | Wordpress
+#### Frontend: HTML | CSS | Bootstrapn | Wordpress
 
-#### Backend: Django 
+#### Backend: Flask | Django 
 
-#### Database: MySQL | MOngoDB
+#### Database: MySQL | SQLAlchemy
 
 #### Others: Git | Latex | Photoshop
 
