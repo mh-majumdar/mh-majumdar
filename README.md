@@ -22,7 +22,7 @@
 ### My Stacks
 #### Languages:C | C++ | Python
 
-#### Frontend: HTML | CSS | Bootstrapn | Wordpress
+#### Frontend: HTML | CSS | Bootstrap | Wordpress
 
 #### Backend: Flask | Django 
 
