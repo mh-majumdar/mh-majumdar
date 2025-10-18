@@ -1,7 +1,4 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://github.com/mh-majumdar/mh-majumdar/assets/66936454/f5ee8763-475e-4fc0-abf0-15b664304ce7" alt="Banner" width="100%"/>
-</p>
+
 
 <h2 align="center">👋 Hey, I'm Mehedi Hasan</h2>
 <h4 align="center">Aspiring Software Engineer | Python | Flask | Django | MySQL</h4>
