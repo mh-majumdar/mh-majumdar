@@ -1,40 +1,73 @@
-![Banner](https://github.com/mh-majumdar/mh-majumdar/assets/66936454/f5ee8763-475e-4fc0-abf0-15b664304ce7)
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://github.com/mh-majumdar/mh-majumdar/assets/66936454/f5ee8763-475e-4fc0-abf0-15b664304ce7" alt="Banner" width="100%"/>
+</p>
 
-### About Me
+<h2 align="center">👋 Hey, I'm Mehedi Hasan</h2>
+<h4 align="center">Aspiring Software Engineer | Python | Flask | Django | MySQL</h4>
 
-👋 Hi there! I'm Mehedi Hasan, a dedicated and enthusiastic problem solver with a passion for learning and improving skills. 
+---
 
-💻 I'm constantly seeking new challenges to expand my knowledge and expertise. I thrive in collaborative environments and enjoy working with others to solve complex problems.
+### 🧑‍💻 About Me
+💡 Passionate about building impactful software that transforms traditional processes into digital solutions.  
+🚀 Experienced in **Python**, **Flask**, **Django**, and **MySQL**, with a strong grasp of **OOP**, **DSA**, and **RESTful APIs**.  
+🤝 Enjoy collaborating in team environments to solve challenging problems.  
+📖 Always learning, exploring new frameworks, and staying updated with emerging technologies.  
 
-📚 Beyond coding, I enjoy reading about technology trends and exploring new programming concepts. Let's connect and collaborate on exciting projects together!
+---
 
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.mh-majumdar.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hasanmehedi1952/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/mh_majumdar" target="_blank"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?&style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/mh_majumdar" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white" /></a>
+</p>
 
-- [Portfolio](https://www.mh-majumdar.com)
-- [Linkedin](https://www.linkedin.com/in/hasanmehedi1952/)
-- [Twitter](https://www.linkedin.com/in/hasanmehedi1952/)
-- [Codeforces](https://codeforces.com/profile/mh_majumdar)
-- [Codechef](https://www.codechef.com/users/mh_majumdar)
+---
 
+### ⚙️ Tech Stack
 
-### My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=mh-majumdar&show_icons=true&count_private=true&theme=dark" alt="mh-majumdar" />
+#### 🖥️ Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-### My Stacks
-#### Languages:C | C++ | Python
+#### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-#### Frontend: HTML | CSS | Bootstrap | Wordpress
+#### ⚙️ Backend
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-#### Backend: Flask | Django 
+#### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CA4245?style=flat&logo=databricks&logoColor=white)
 
-#### Database: MySQL | SQLAlchemy
+#### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 
-#### Others: Git | Latex | Photoshop
+---
 
- 
-### Contribution & Streak Block
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mh-majumdar&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
- 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mh-majumdar&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mh-majumdar&layout=compact&theme=tokyonight" height="160px"/>
+</p>
 
- 
- ### Top Language Statistics
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mh-majumdar&theme=dark&layout=compact&align=right&width=40%)](https://github.com/mh-majumdar/github-readme-stats)
+---
+
+### 🔥 Streak & Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mh-majumdar&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">✨ “Code. Learn. Repeat.” ✨</p>
